@@ -16,5 +16,5 @@
     "type": "git",
     "url": "https://github.com/parcelgo/express-jsonrpc.git"
   },
-  "main": "lib/index.js",
+  "main": "lib/index.js"
 }
