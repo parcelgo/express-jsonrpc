@@ -1,18 +1,18 @@
 {
-  "name": "express-jsonrpc",
+  "name": "post2go-express-jsonrpc",
   "version": "0.1.11",
   "description": "JSON-RPC server for Express.js",
   "keywords": [
     "json-rpc",
     "http"
   ],
-  "homepage": "https://github.com/parcelgo/express-jsonrpc",
+  "homepage": "https://github.com/post2go/express-jsonrpc",
   "bugs": {
-    "url": "https://github.com/parcelgo/express-jsonrpc/issues"
+    "url": "https://github.com/post2go/express-jsonrpc/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/parcelgo/express-jsonrpc.git"
+    "url": "https://github.com/post2go/express-jsonrpc.git"
   },
   "main": "lib/index.js"
 }
